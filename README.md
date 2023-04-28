@@ -42,7 +42,8 @@ To create a 3D model from given orthographic projection.
 ![image](https://user-images.githubusercontent.com/113594316/198823540-38a1b79a-1f68-4876-add9-adf59b98b386.png)
 
 ## OUTPUT:
-"C:\Users\SEC\Pictures\nivetha exe 3.1.png"
+![nivetha exe 3 1](https://user-images.githubusercontent.com/120543388/235164870-b28c5999-37d5-4e97-856f-64ec31135ee1.png)
+
 ## RESULT:
 Thus, 3D model is created from orthographic projection.
 
